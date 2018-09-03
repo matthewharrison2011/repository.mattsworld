@@ -240,6 +240,30 @@ Fixed search issue caused by character accents
 	</extension>
 </addon>
 
+<addon id="script.covenant.artwork" version="1.0.3" name="Covenant Artwork" provider-name="Covenant">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<summary>Themes for the Covenant Addon</summary>
+		<description></description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="script.covenant.metadata" version="1.0.2" name="Covenant Metadata" provider-name="Covenant">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<summary>Metadata for the Covenant Addon</summary>
+		<description>Metadata for Covenant are maintained separately to make distribution of the the addon itself easier/faster.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
 <addon id="script.exodus.artwork" version="1.0.8" name="Exodus Artwork" provider-name="Exodus">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
