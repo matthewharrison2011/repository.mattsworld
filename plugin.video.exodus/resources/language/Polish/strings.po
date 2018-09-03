@@ -24,7 +24,7 @@
 # Xulek, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: EXODUS\n"
+"Project-Id-Version: Exodus\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: 2017-05-30 09:11+0000\n"
 "Last-Translator: Viper2k4\n"
@@ -297,12 +297,12 @@ msgid "Queue item"
 msgstr "Dodaj do Kolejki"
 
 msgctxt "#32066"
-msgid "Watched in EXODUS"
-msgstr "Obejrzane w EXODUS"
+msgid "Watched in Exodus"
+msgstr "Obejrzane w Exodus"
 
 msgctxt "#32067"
-msgid "Unwatched in EXODUS"
-msgstr "Nieobejrzane w EXODUS"
+msgid "Unwatched in Exodus"
+msgstr "Nieobejrzane w Exodus"
 
 msgctxt "#32068"
 msgid "Watched in Trakt"
@@ -577,8 +577,8 @@ msgid "No stream available"
 msgstr "Brak dostępnych źródeł"
 
 msgctxt "#32402"
-msgid "Playback outside EXODUS is not allowed"
-msgstr "Odtwarzanie poza EXODUSem zabronione"
+msgid "Playback outside Exodus is not allowed"
+msgstr "Odtwarzanie poza Exodusem zabronione"
 
 msgctxt "#32403"
 msgid "Download"
@@ -697,20 +697,20 @@ msgid "DEBRID-SERVICE"
 msgstr "SERWIS-DEBRID"
 
 msgctxt "#32539"
-msgid "Configure Debrid Services in ResolveURL Settings."
-msgstr "Skonfiguruj usługi Debrid w Ustawieniach ResolveURL."
+msgid "Configure Debrid Services in URLResolver Settings."
+msgstr "Skonfiguruj usługi Debrid w Ustawieniach URLResolver."
 
 msgctxt "#32540"
-msgid "ResolveURL Settings"
-msgstr "Ustawienia ResolveURL"
+msgid "URLResolver Settings"
+msgstr "Ustawienia URLResolver"
 
 msgctxt "#32541"
 msgid "Library"
 msgstr "Biblioteka"
 
 msgctxt "#32542"
-msgid "EXODUS folders will be imported to library if they are added to media sources."
-msgstr "Foldery EXODUS zostaną zaimportowane do biblioteki, jeśli zostaną dodane do źródeł multimedialnych."
+msgid "Exodus folders will be imported to library if they are added to media sources."
+msgstr "Foldery Exodus zostaną zaimportowane do biblioteki, jeśli zostaną dodane do źródeł multimedialnych."
 
 msgctxt "#32543"
 msgid "Movies"

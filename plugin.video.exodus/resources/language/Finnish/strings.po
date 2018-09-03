@@ -692,12 +692,12 @@ msgid "DEBRID-SERVICE"
 msgstr "DEBRID-PALVELU"
 
 msgctxt "#32539"
-msgid "Configure Debrid Services in ResolveURL Settings."
-msgstr "Määritä Debrid-palvelut ResolveURL-asetuksissa."
+msgid "Configure Debrid Services in URLResolver Settings."
+msgstr "Määritä Debrid-palvelut URLResolver-asetuksissa."
 
 msgctxt "#32540"
-msgid "ResolveURL Settings"
-msgstr "ResolveURL-asetukset"
+msgid "URLResolver Settings"
+msgstr "URLResolver-asetukset"
 
 msgctxt "#32541"
 msgid "Library"
@@ -705,7 +705,7 @@ msgstr "Kirjasto"
 
 msgctxt "#32542"
 msgid ""
-"Exodus folders will be imported to library if they are added to media "
+"Copyright (C) 2017 Exodus folders will be imported to library if they are added to media "
 "sources."
 msgstr "Lisää ylläolevat Exoduksen kansiot medialähteisiin"
 

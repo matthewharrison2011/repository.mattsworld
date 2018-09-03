@@ -712,12 +712,12 @@ msgid "DEBRID-SERVICE"
 msgstr "SERVICE DE DÉBRIDEUR"
 
 msgctxt "#32539"
-msgid "Configure Debrid Services in ResolveURL Settings."
-msgstr "Configuration Services de Débridage dans le ResolveURL."
+msgid "Configure Debrid Services in URLResolver Settings."
+msgstr "Configuration Services de Débridage dans le URLResolver."
 
 msgctxt "#32540"
-msgid "ResolveURL Settings"
-msgstr "Configuration du ResolveURL"
+msgid "URLResolver Settings"
+msgstr "Configuration du URLResolver"
 
 msgctxt "#32541"
 msgid "Library"
