@@ -192,6 +192,18 @@
 	</extension>
 </addon>
 
+<addon id="script.genesisreborn.metadata" version="1.0.1" name="genesisreborn Metadata" provider-name="Genesis Reborn">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<summary>Metadata for the genesisreborn Addon</summary>
+		<description>Metadata for genesisreborn are maintained separately to make distribution of the the addon itself easier/faster.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
 <addon id="script.module.streamlink.base" name="Streamlink Library" version="2018.07.03" provider-name="Streamlink Devs, Twilight0">
   <requires>
     <import addon="xbmc.python" version="2.24.0"/>
