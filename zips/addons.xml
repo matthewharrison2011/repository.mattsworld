@@ -178,6 +178,20 @@
 	</extension>
 </addon>
 
+<addon id="script.genesisreborn.artwork" version="1.4.1" name="Genesis Reborn Artwork" provider-name="Genesis Reborn">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+	</requires>
+	<extension point="xbmc.python.script" library="default.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Themes for the Genesis Reborn Addon</summary>
+		<description></description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
 <addon id="script.module.streamlink.base" name="Streamlink Library" version="2018.07.03" provider-name="Streamlink Devs, Twilight0">
   <requires>
     <import addon="xbmc.python" version="2.24.0"/>
