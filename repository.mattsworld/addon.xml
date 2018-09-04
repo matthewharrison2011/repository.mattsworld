@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.mattsworld" name="Matts World" version="1.0.0" provider-name="MW">
+<addon id="repository.mattsworld" name="Matts World" version="1.0.1" provider-name="MW">
 	<extension point="xbmc.addon.repository" name="Matts World Repository">
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
@@ -12,7 +12,7 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Matts World</summary>
-		<description lang="en">Matts world repo</description>
+		<description lang="en">Matts world repo. V.1.0.1 - Added Mobdro</description>
 		<genre></genre>
 	</extension>
 </addon>
