@@ -400,6 +400,22 @@ This is a Non-profit resource, organized solely for educational purposes which i
 	</extension>
 </addon>
 
+<addon id="script.module.schism.common" name="Elysium Common Libraries" version="2017.06.08" provider-name="Elysium">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0" />
+		<import addon="script.module.six" />
+		<import addon="script.module.metahandler" />
+		<import addon="script.module.beautifulsoup" />
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Collection of modules used by Elysium</summary>
+		<description lang="en">Collection of modules used by Elysium</description>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+	</extension>
+</addon>
+
 <addon id="script.module.streamlink.base" name="Streamlink Library" version="2018.07.03" provider-name="Streamlink Devs, Twilight0">
   <requires>
     <import addon="xbmc.python" version="2.24.0"/>
