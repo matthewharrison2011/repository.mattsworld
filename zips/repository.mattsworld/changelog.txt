@@ -1,0 +1,11 @@
+[B]1.0.1[/B]
+New Addons!
+- Neptune Rising
+- Mobdro
+
+[B]1.0.0[/B]
+Initial release
+- Exodus
+- Covenant
+- GenesisReborn
+- TapTV
